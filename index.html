@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="img/icon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="css/style.css">
+    <link 
+        href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" 
+        rel="stylesheet" 
+        integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" 
+        crossorigin="anonymous">
+    <script
+        src="https://code.jquery.com/jquery-3.7.1.min.js"
+        integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        crossorigin="anonymous">
+    </script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/loadUnits.js"></script>
+    <title>Slime Randomizer</title>
+</head>
+<body>
+    <h1 id="siteTitle" class="text-center pt-4 bg-primary">Slime Randomizer</h1>
+    <div class="team d-flex flex-row mb-3 p-2 justify-content-between align-items-center">
+        <div id="protectorSlot" class="prot"></div>
+        <div></div>
+        <div id="battleUnit1" class="battleU"> </div>
+        <div id="battleUnit2" class="battleU"></div>
+        <div id="battleUnit3" class="battleU"></div>
+        <div id="battleUnit4" class="battleU"></div>
+        <div id="battleUnit5" class="battleU"></div>
+    </div>
+    <div class="position-relative">
+        <button id="randomizeButton" class="btn btn-primary center position-absolute mt-3 start-50 translate-middle">Randomize</button>
+    </div>
+</body>
+<script src="/js/randomizer.js"></script>
+</html>

@@ -10,13 +10,17 @@ CharybdisDefault
 ChloeImasml
 ChloeKnight
 ChloeSchool2023
+Cynthia4Anniv
 DemonLordGeldDefault
 DiabloSchool2023
 DinoHA2023
+DinoSwimsuit2025
 DordDefault
 ElementalColossusDefault
 ElfDefault
 Elmesia3Anniv
+ElmesiaDevil
+ErenDevil
 ErenWedding2023
 FreyAmusementPark
 FreyPartyDress
@@ -28,8 +32,10 @@ GarmDefault
 GobuichiDefault
 Guy3Anniv
 GuyParty2022
+GuySwimsuit2025
 HakuroHighRankCostume
 HarunaDefault
+HestiaDefault
 HimmelDefault
 IfritDefault
 IzisYukata
@@ -38,6 +44,7 @@ KagaliForCard
 KaijinDefault
 LeonardDefault
 LightDefault
+LilirucaDefault
 Luminous2Anniv
 MariabellDefault
 MasayukiDefault
@@ -86,6 +93,7 @@ TowaDefault
 TreyniCoschange
 TreyniMilitary
 TreyniSwimsuit2023
+Veldora4Anniv
 VeldoraCreator01
 VeldoraDefault
 VeldoraForCard

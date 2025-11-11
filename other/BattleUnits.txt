@@ -1,5 +1,6 @@
 AdalmanKingOfWit
 AinzDefault
+AisDefault
 AlbedoDefault
 AlbisDefault
 AlbisSchool2023
@@ -7,6 +8,7 @@ AliceDefault
 AliceKnight
 AlphenDefault
 AquaDefault
+BellDefault
 BenimaruAnotherPC
 BenimaruArmor
 BenimaruBefore
@@ -20,6 +22,7 @@ Buran2Anniv
 Buran3Anniv
 BuranGothic
 BuranMilitary
+BuranSwimsuit2025
 CarrionDefault
 ChloeDefault
 ClaymanAwaken02PC
@@ -54,6 +57,7 @@ FreyDefault
 FreySchool2025
 FrierenDefault
 GabiruAmusementPark
+GabiruAnotherPC
 GabiruDefault
 GailDefault
 GazelDwargo3Anniv
@@ -86,12 +90,16 @@ HinataLightarmor
 HinataPartyDress
 HinataSchool2025
 HinataSwimsuit2023
+HinataTales
 IbukiDefault
+IfritDefaultPC
 IzisAwakenPC
 IzisDefault
 Jaune2Anniv
 JauneGothic
 JauneHA2025
+JauneSwimsuit2025
+KagaliDefault
 KasugaDefault
 KazumaDefault
 KenyaDefault
@@ -106,14 +114,17 @@ LuminousAnime3rd
 LuminousCreator01
 LuminousDefault
 LuminousDemonLord
+LuminousDevil
 LuminousHA2023
 LuminousMaidCostume2021Christmas
 LuminousMythology
 LuminousPhantom
 LuminousSwimsuit2023
 MariabellXmas2024
+MasayukiDevil
 MaskedHero3Anniv
 MaskedHeroDefault
+MaskedHeroDevil
 MaskedHeroHA2023
 MaskedHeroHA2024
 MeguminDefault
@@ -159,6 +170,8 @@ RigurdDefault
 RigurDefault
 Rimuru1kuji2024
 Rimuru2Anniv
+Rimuru4Anniv
+RimuruAnother4Anniv
 RimuruCoschange
 RimuruCreator01
 RimuruDefault
@@ -181,6 +194,7 @@ RimuruWedding2022
 RitusDefault
 RitusXmas2024
 RyotaDefault
+RyuDefault
 ShalltearDefault
 ShionBefore
 ShionDefault
@@ -206,6 +220,7 @@ ShizuXmas2022
 ShunaBefore
 ShunaCoschange
 ShunaDefault
+ShunaHestia
 ShunaImasml
 ShunaKimono2022Newyear
 ShunaNordic
@@ -222,6 +237,7 @@ SoeiTengu
 SokaDefaultDisplay
 SokaMythology
 SokaPhantom
+SokaRyu
 SokaWedding2023
 StarkDefault
 SuphiaDefault
@@ -239,7 +255,9 @@ Violet2Anniv
 VioletDefault
 VioletHA2023
 VioletMilitary
+VioletSwimsuit2025
 VioletXmas2024
+Werzard4Anniv
 WerzardDefault
 WerzardHA2025
 WerzardParty2022

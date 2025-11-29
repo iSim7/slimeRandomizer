@@ -55,6 +55,7 @@ ErenDefault
 FernDefault
 FreyDefault
 FreySchool2025
+FreyXmas2025
 FrierenDefault
 GabiruAmusementPark
 GabiruAnotherPC
@@ -153,6 +154,7 @@ MogamiDefault
 MomijiDefault
 MomijiXmas2024
 NarberalDefault
+NineheadDefault
 PhobioDefault
 RainDefault
 RainHighDemon

@@ -13,6 +13,7 @@ ChloeSchool2023
 Cynthia4Anniv
 DemonLordGeldDefault
 DiabloSchool2023
+DiabloXmas2025
 DinoHA2023
 DinoSwimsuit2025
 DordDefault
@@ -62,6 +63,7 @@ RainGothic
 RamirisDefault
 RamirisHA2025
 RamirisValentine2023
+RangaXmas2025
 RigurdHalloween2023
 RimuruAinz
 RimuruAnotherRe

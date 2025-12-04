@@ -92,6 +92,7 @@ HinataPartyDress
 HinataSchool2025
 HinataSwimsuit2023
 HinataTales
+HinataXmas2025
 IbukiDefault
 IfritDefaultPC
 IzisAwakenPC

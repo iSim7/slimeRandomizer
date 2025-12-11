@@ -23,6 +23,7 @@ Buran3Anniv
 BuranGothic
 BuranMilitary
 BuranSwimsuit2025
+BuranXmas2025
 CarrionDefault
 ChloeDefault
 ClaymanAwaken02PC

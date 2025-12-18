@@ -106,6 +106,7 @@ KagaliDefault
 KasugaDefault
 KazumaDefault
 KenyaDefault
+KiritoDefault
 KurobeiBefore
 KurobeiDefault
 LaplaceDefault
@@ -125,6 +126,7 @@ LuminousPhantom
 LuminousSwimsuit2023
 MariabellXmas2024
 MasayukiDevil
+MasayukiKirito
 MaskedHero3Anniv
 MaskedHeroDefault
 MaskedHeroDevil

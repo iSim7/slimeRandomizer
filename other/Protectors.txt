@@ -43,6 +43,7 @@ IzisYukata
 JiwuForCard
 KagaliForCard
 KaijinDefault
+LeafaForCard
 LeonardDefault
 LightDefault
 LilirucaDefault
@@ -64,6 +65,7 @@ RamirisDefault
 RamirisHA2025
 RamirisValentine2023
 RangaXmas2025
+RaphaelAsuna
 RigurdHalloween2023
 RimuruAinz
 RimuruAnotherRe

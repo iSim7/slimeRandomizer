@@ -8,6 +8,7 @@ AliceDefault
 AliceKnight
 AlphenDefault
 AquaDefault
+AsunaDefault
 BellDefault
 BenimaruAnotherPC
 BenimaruArmor

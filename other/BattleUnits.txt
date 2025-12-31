@@ -237,6 +237,7 @@ ShunaShrinemaidenRelease
 ShunaSwimsuitHibiscus
 ShunaTengu
 ShunaWedding2023
+SinonDefault
 SoeiBefore
 SoeiDefault
 SoeiHighRank

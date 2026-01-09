@@ -275,4 +275,5 @@ YoumDefaultPC
 YoumNordic
 YuukiBattlesuit2023
 YuukiDefault
+YuukiSaoDefault
 YuukiSchool2025

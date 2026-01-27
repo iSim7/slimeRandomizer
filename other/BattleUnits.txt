@@ -17,6 +17,7 @@ BenimaruCoschange
 BenimaruDefault
 BenimaruHighRankCostume
 BenimaruMovie
+BenimaruMovieRevival
 BenimaruOriginalCostumeKimono
 BerettaDefault
 Buran2Anniv
@@ -27,6 +28,7 @@ BuranSwimsuit2025
 BuranXmas2025
 CarrionDefault
 ChloeDefault
+ClaymanAwaken01PC
 ClaymanAwaken02PC
 ClaymanDefault
 ClicheDefault

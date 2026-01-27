@@ -81,6 +81,7 @@ RitusForCard
 SalamanderDefault
 Shion1kuji2024
 ShionLeadersForCard
+ShionMovieRevival
 ShionSecretary
 ShizuWedding2022
 ShunaAqua
@@ -94,6 +95,7 @@ SokaCoschange
 SokaValentine2022Date
 Towa3Anniv
 TowaDefault
+TowaMovieRevival
 TreyniCoschange
 TreyniMilitary
 TreyniSwimsuit2023

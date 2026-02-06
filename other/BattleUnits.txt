@@ -87,6 +87,7 @@ HakuroBefore
 HakuroDefault
 HakuroTengu
 HiiroDefault
+HiiroMovieRevival
 Hinata2Anniv
 HinataAnime3rd
 HinataCasual

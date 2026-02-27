@@ -76,6 +76,7 @@ GobtaCoschange
 GobtaDefault
 GobtaHighRankCostume
 GobtaMarou
+GobtaMovie2
 GobtaSchool2023
 GobwaDefault
 GruciusDefault
@@ -125,6 +126,7 @@ LuminousDemonLord
 LuminousDevil
 LuminousHA2023
 LuminousMaidCostume2021Christmas
+LuminousMovie2
 LuminousMythology
 LuminousPhantom
 LuminousSwimsuit2023

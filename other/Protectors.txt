@@ -35,6 +35,7 @@ Guy3Anniv
 GuyParty2022
 GuySwimsuit2025
 HakuroHighRankCostume
+HakuroMovie2
 HarunaDefault
 HestiaDefault
 HimmelDefault
@@ -111,3 +112,4 @@ VioletGothic
 WerzardHA2023
 WerzardHA2024
 WerzardNordic
+YuraDefault

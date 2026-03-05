@@ -197,6 +197,7 @@ RimuruHA2025
 RimuruKingdom2022
 RimuruMagician
 RimuruMaidCostume2021Christmas
+RimuruMovie2
 RimuruOriginalCostumeShortSleeve
 RimuruSchool2023
 RimuruShortHair

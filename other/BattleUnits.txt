@@ -106,6 +106,7 @@ IzisDefault
 Jaune2Anniv
 JauneGothic
 JauneHA2025
+JauneMovie2
 JauneSwimsuit2025
 KagaliDefault
 KasugaDefault

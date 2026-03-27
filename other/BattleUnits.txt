@@ -47,6 +47,7 @@ Diablo1kuji2024
 Diablo2022Summer
 Diablo3Anniv
 DiabloAnime3rd
+DiabloBlackHero
 DiabloDefault
 DiabloGothic
 DiabloHighRankCostume
@@ -210,6 +211,7 @@ RitusDefault
 RitusXmas2024
 RyotaDefault
 RyuDefault
+SaareDefault
 ShalltearDefault
 ShionBefore
 ShionDefault

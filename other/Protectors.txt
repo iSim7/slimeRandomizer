@@ -76,7 +76,9 @@ RimuruImasml
 RimuruKimono2022Newyear
 RimuruMegumin
 RimuruSatoruPhantom
+RimuruSlimeBlackHero
 RimuruSlimeSwimsuit2023
+RimuruSwimsuitMovie2
 RimuruTales
 RitusForCard
 SalamanderDefault
@@ -84,6 +86,7 @@ Shion1kuji2024
 ShionLeadersForCard
 ShionMovieRevival
 ShionSecretary
+ShizuBlackHero
 ShizuWedding2022
 ShunaAqua
 ShunaMaidCostume2021Christmas

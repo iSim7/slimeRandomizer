@@ -112,6 +112,7 @@ VeldoraKingdom2022
 VeldoraTales
 VestaDefault
 VioletGothic
+WerzardBlackHero
 WerzardHA2023
 WerzardHA2024
 WerzardNordic

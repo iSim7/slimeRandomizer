@@ -81,6 +81,7 @@ GobtaMovie2
 GobtaSchool2023
 GobwaDefault
 GruciusDefault
+GuyBlackHero
 GuyDefault
 GuyDemonLord
 GuyHA2023
@@ -187,6 +188,7 @@ Rimuru1kuji2024
 Rimuru2Anniv
 Rimuru4Anniv
 RimuruAnother4Anniv
+RimuruAnotherHA2026
 RimuruCoschange
 RimuruCreator01
 RimuruDefault
@@ -214,6 +216,7 @@ RyuDefault
 SaareDefault
 ShalltearDefault
 ShionBefore
+ShionBeforeAnotherPC
 ShionDefault
 ShionHA2023
 ShionMaidCostume2021Christmas

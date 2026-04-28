@@ -5,6 +5,7 @@ AliceXmas2024
 Benimaru1kuji2024
 BenimaruMagician
 BenimaruTengu
+BerettaHA2026
 CarrionSchool2025
 CharybdisDefault
 ChloeImasml
@@ -64,6 +65,7 @@ OwnerDefault
 RainGothic
 RamirisDefault
 RamirisHA2025
+RamirisHA2026
 RamirisValentine2023
 RangaXmas2025
 RaphaelAsuna

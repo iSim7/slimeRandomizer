@@ -200,6 +200,7 @@ RimuruFormal
 RimuruHA2023
 RimuruHA2024
 RimuruHA2025
+RimuruHA2026
 RimuruKingdom2022
 RimuruMagician
 RimuruMaidCostume2021Christmas

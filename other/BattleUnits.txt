@@ -57,6 +57,7 @@ DinoDefault
 DinoDemonLord
 DorisDefault
 ElmesiaDefault
+ElmesiaHA2026
 ErenDefault
 FernDefault
 FreyDefault

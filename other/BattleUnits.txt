@@ -159,6 +159,7 @@ MilimKingdom2022
 MilimMythology
 MilimOriginalArrangeSimple
 MilimSwimsuit2023
+MilimSwimsuit2026
 MilimWithoutMantle
 MiseryDefault
 MiseryGothic
@@ -228,6 +229,7 @@ ShionMilitary
 ShionneDefault
 ShionOriginalCostumeKimono
 ShionPartydress
+ShionSwimsuit2026
 ShionSwimsuitLeaf
 ShionTales
 ShionValentine2023

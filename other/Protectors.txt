@@ -94,6 +94,7 @@ ShunaAqua
 ShunaMaidCostume2021Christmas
 ShunaMilitary
 ShunaMythology
+ShunaSwimsuit2026
 SkyDragonDefault
 SoeiAmusementPark
 SoeiPhantom
@@ -105,6 +106,7 @@ TowaMovieRevival
 TreyniCoschange
 TreyniMilitary
 TreyniSwimsuit2023
+TreyniSwimsuit2026
 Veldora4Anniv
 VeldoraCreator01
 VeldoraDefault

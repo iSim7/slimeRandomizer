@@ -63,6 +63,7 @@ ErenSwimsuit2026
 FernDefault
 FreyDefault
 FreySchool2025
+FreySwimsuit2026
 FreyXmas2025
 FrierenDefault
 GabiruAmusementPark

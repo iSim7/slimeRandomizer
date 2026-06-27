@@ -69,6 +69,7 @@ FrierenDefault
 GabiruAmusementPark
 GabiruAnotherPC
 GabiruDefault
+GaiaDefault
 GailDefault
 GazelDwargo3Anniv
 GazelDwargoDefault
@@ -176,6 +177,7 @@ NarberalDefault
 NineheadDefault
 PhobioDefault
 RainDefault
+RainElemental
 RainHighDemon
 RamirisDemonLordCostume
 RamirisSwimsuit2023

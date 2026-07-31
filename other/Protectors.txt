@@ -24,6 +24,7 @@ Elmesia3Anniv
 ElmesiaDevil
 ErenDevil
 ErenWedding2023
+EspritDefault
 FreyAmusementPark
 FreyPartyDress
 FuzeDefault
@@ -117,6 +118,7 @@ VeldoraHighRank
 VeldoraKingdom2022
 VeldoraTales
 VestaDefault
+VeyronForCard
 VioletGothic
 WerzardBlackHero
 WerzardHA2023

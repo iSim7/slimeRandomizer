@@ -114,6 +114,7 @@ Jaune2Anniv
 JauneGothic
 JauneHA2025
 JauneMovie2
+JauneNamedOutfit
 JauneSwimsuit2025
 KagaliDefault
 KasugaDefault
@@ -174,6 +175,7 @@ MjurranValentine2022Date
 MogamiDefault
 MomijiDefault
 MomijiXmas2024
+MossDefault
 NarberalDefault
 NineheadDefault
 PhobioDefault

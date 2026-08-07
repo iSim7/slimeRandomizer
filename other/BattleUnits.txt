@@ -292,6 +292,7 @@ VioletDefault
 VioletHA2023
 VioletMilitary
 VioletMovieRevival
+VioletNamedOutfit
 VioletSwimsuit2025
 VioletXmas2024
 Werzard4Anniv

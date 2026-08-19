@@ -24,6 +24,7 @@ Buran2Anniv
 Buran3Anniv
 BuranGothic
 BuranMilitary
+BuranNamedOutfit
 BuranSwimsuit2025
 BuranXmas2025
 CarrionDefault

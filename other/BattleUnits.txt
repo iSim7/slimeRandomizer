@@ -29,6 +29,7 @@ BuranSwimsuit2025
 BuranXmas2025
 CarrionDefault
 ChloeDefault
+ChloeSchoolUniform
 ClaymanAwaken01PC
 ClaymanAwaken02PC
 ClaymanDefault
@@ -288,6 +289,7 @@ VeldoraHA2024
 VeldoraHA2026
 VeldoraHumanoid
 VeldoraNordic
+VenomDefault
 Violet2Anniv
 VioletDefault
 VioletHA2023

@@ -41,6 +41,7 @@ HakuroMovie2
 HarunaDefault
 HestiaDefault
 HimmelDefault
+HinataTeacher
 IfritDefault
 IzisYukata
 JiwuForCard
@@ -103,6 +104,7 @@ SoeiAmusementPark
 SoeiPhantom
 SokaCoschange
 SokaValentine2022Date
+TaktForCard
 Towa3Anniv
 TowaDefault
 TowaMovieRevival

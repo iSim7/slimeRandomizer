@@ -137,6 +137,7 @@ LuminousDefault
 LuminousDemonLord
 LuminousDevil
 LuminousHA2023
+LuminousMaid2026
 LuminousMaidCostume2021Christmas
 LuminousMovie2
 LuminousMythology

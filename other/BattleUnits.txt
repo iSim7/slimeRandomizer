@@ -126,6 +126,7 @@ KiritoDefault
 KurobeiBefore
 KurobeiDefault
 LaplaceDefault
+LeonAristocratic
 LeonDefault
 LeonDemonLordCostume
 LeonHA2025

@@ -197,6 +197,7 @@ RaphaelFrieren
 RaphaelMythology
 RaphaelNordic
 RaphaelRimuru
+RazzleDefault
 RigurdDefault
 RigurDefault
 Rimuru1kuji2024
@@ -234,6 +235,7 @@ SaareDefault
 ShalltearDefault
 ShionBefore
 ShionBeforeAnotherPC
+ShionBodyguard
 ShionDefault
 ShionHA2023
 ShionMaidCostume2021Christmas

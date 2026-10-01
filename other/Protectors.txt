@@ -13,6 +13,7 @@ ChloeKnight
 ChloeSchool2023
 Cynthia4Anniv
 DemonLordGeldDefault
+DiabloPrimeMinister
 DiabloSchool2023
 DiabloXmas2025
 DinoHA2023
@@ -53,6 +54,7 @@ LightDefault
 LilirucaDefault
 Luminous2Anniv
 MariabellDefault
+MariaForCard
 MasayukiDefault
 MasayukiSchool2025
 MaskedHeroHA2025

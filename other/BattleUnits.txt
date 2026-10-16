@@ -30,6 +30,7 @@ BuranXmas2025
 CarrionDefault
 ChloeDefault
 ChloeSchoolUniform
+ChronoaDefault
 ClaymanAwaken01PC
 ClaymanAwaken02PC
 ClaymanDefault
@@ -87,6 +88,7 @@ GobtaMarou
 GobtaMovie2
 GobtaSchool2023
 GobwaDefault
+GranbellDefault
 GruciusDefault
 GuyBlackHero
 GuyDefault

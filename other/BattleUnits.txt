@@ -43,6 +43,7 @@ CynthiaPinkForPC
 CynthiaUltimate
 CynthiaValentine2023
 CynthiaWedding2022
+Dagrul5Anniv
 DagrulDefault
 DagrulDemonLord
 DarknessDefault
@@ -90,6 +91,7 @@ GobtaSchool2023
 GobwaDefault
 GranbellDefault
 GruciusDefault
+Guy5Anniv
 GuyBlackHero
 GuyDefault
 GuyDemonLord

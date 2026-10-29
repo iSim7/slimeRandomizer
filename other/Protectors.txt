@@ -49,6 +49,7 @@ JiwuForCard
 KagaliForCard
 KaijinDefault
 LeafaForCard
+Leon5Anniv
 LeonardDefault
 LightDefault
 LilirucaDefault
@@ -59,6 +60,7 @@ MasayukiDefault
 MasayukiSchool2025
 MaskedHeroHA2025
 MidrayForCard
+Milim5Anniv
 MilimAura
 MilimHalloween2023
 MilimOriginalCostumeWhiteDress
@@ -69,6 +71,7 @@ MjurranWedding2023
 MyrdDefault
 OwnerDefault
 RainGothic
+Ramiris5Anniv
 RamirisDefault
 RamirisHA2025
 RamirisHA2026

@@ -57,6 +57,7 @@ DiabloGothic
 DiabloHighRankCostume
 DiabloKingdom2022
 DiabloPhantom
+Dino5Anniv
 DinoDefault
 DinoDemonLord
 DorisDefault
@@ -197,6 +198,7 @@ RangaDefault
 RangaHalloween2023
 RangaHighRank
 Raphael3Anniv
+Raphael5Anniv
 RaphaelFrieren
 RaphaelMythology
 RaphaelNordic

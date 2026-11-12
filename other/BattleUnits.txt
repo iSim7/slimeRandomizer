@@ -136,6 +136,7 @@ LeonDefault
 LeonDemonLordCostume
 LeonHA2025
 LeonParty2022
+Luminous5Anniv
 LuminousAnime3rd
 LuminousAnotherPC
 LuminousCreator01
